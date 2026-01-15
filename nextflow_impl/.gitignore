@@ -1,0 +1,5 @@
+.venv
+.nextflow*
+work
+test*
+.nextflow.log
